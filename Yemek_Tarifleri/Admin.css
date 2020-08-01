@@ -1,0 +1,48 @@
+﻿a:link {
+    text-decoration: none;
+    font-size: 14px;
+    font-family: "Segoe UI";
+    font-style: normal;
+    color: #871d1d
+}
+
+a:hover {
+    font-size: 18px;
+    color: #7f68cc
+}
+
+.tb5 {
+    border: 2px solid #ee7373;
+    border-radius: 10px;
+    height: 22px;
+    width: 230px;
+}
+
+.testbutton {
+    font-family: arial;
+    width: 200px;
+    color: #000000 !important;
+    font-size: 14px;
+    text-shadow: 1px 1px 0px #808080;
+    box-shadow: 1px 1px 1px #bee2f9;
+    padding: 10px 25px;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    border-radius: 10px;
+    border: 2px solid #3866a3;
+    background: #ed7676;
+    background: linear-gradient(top, #ed7676, #eb2e2e);
+    background: -ms-linear-gradient(top, #ed7676, #eb2e2e);
+    background: -webkit-gradient(linear, left top, left bottom, from(#ed7676), to(#eb2e2e));
+    background: -moz-linear-gradient(top, #ed7676, #eb2e2e);
+}
+
+    .testbutton:hover {
+        color: #808080 !important;
+        text-shadow: 1px 1px 0px #000000;
+        background: #eb2e2e;
+        background: linear-gradient(top, #eb2e2e, #ed7676);
+        background: -ms-linear-gradient(top, #eb2e2e, #ed7676);
+        background: -webkit-gradient(linear, left top, left bottom, from(#eb2e2e), to(#ed7676));
+        background: -moz-linear-gradient(top, #eb2e2e, #ed7676);
+    }
